@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Account Value App</string>
+    <string name="income">Income Info</string>
+    <string name="payments">Bills Info</string>
+    <string name="upcoming">Upcoming Payments</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="bills_description">Description</string>
+    <string name="bills_due_date">Due Date</string>
+    <string name="bills_amount">Amount</string>
+    <string name="btn_save">Save</string>
+</resources>
